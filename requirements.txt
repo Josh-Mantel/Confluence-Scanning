@@ -1,0 +1,3 @@
+# Requires Python 3.9 or newer.
+# No third-party packages are required; the scanner uses only the standard library.
+# detectors.py is bundled alongside confluence_scan.py; it is not a pip dependency.
